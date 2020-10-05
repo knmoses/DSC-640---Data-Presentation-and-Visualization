@@ -4,5 +4,5 @@ Data Presentation & Visualization
 ## About
 Visual presentation on Airline vs Automobile Safety
 
-## Programming
+## Programming Language
 Python, Tableau
