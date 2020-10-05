@@ -1,2 +1,8 @@
-# DSC-640: Data-Presentation-and-Visualization
+## Class
+Data Presentation & Visualization
+
+## About
 Visual presentation on Airline vs Automobile Safety
+
+## Programming
+Python, Tableau
