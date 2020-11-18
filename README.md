@@ -17,8 +17,13 @@ Overview: "MosesKrystinaProjectPart5.pdf"
 
 Visualizations: "MosesKrystinaProjectPart5.2.pdf"
 
+## Results
+It was determined that air was a safer and preferred way of travel.
+
 ## Programming Language
 Python, Tableau
+
+## Data
 
 ## License
 MIT License
