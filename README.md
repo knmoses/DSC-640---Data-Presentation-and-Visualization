@@ -24,6 +24,17 @@ It was determined that air was a safer and preferred way of travel.
 Python, Tableau
 
 ## Data
+Datasets included in the respository:
+
+* FatalCrashesAuto.xlsx
+
+* Auto Crash by Vehicle.xlsx
+
+* AirlineFatals.xlsx
+
+* airline-safety.csv
+
+* Total Industry Pass Rev.xlsx
 
 ## License
 MIT License
