@@ -4,7 +4,7 @@ Data Presentation & Visualization
 ## About
 Visual presentation on Airline vs Automobile Safety
 
-## Additional Information
+## File Information
 Dashboard: "MosesKrystina Part 1 Project.pdf"
 
 Presentation: "MosesKrystina Part 2 Project.pdf"
